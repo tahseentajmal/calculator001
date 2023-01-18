@@ -76,11 +76,11 @@ em{
 	color: #ecf0f3;
 }
 button {
-	transition-duration: 0.4s;
+	transition-duration: 0.2s;
   }
   
 button:hover {
-	background-color: #010e019f;
+	background-color: #6e6e079f;
 	color: rgb(255, 255, 255);
 
   }
